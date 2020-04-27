@@ -1,4 +1,4 @@
-## [AnyDLBot](https://telegram.dog/AnyDLBot)
+## [RenoDLbot](https://t.me/RenoDLbot)
 ---
 
 An Open Source ALL-In-One Telegram RoBot, that can do lot of things.
@@ -12,7 +12,7 @@ An Open Source ALL-In-One Telegram RoBot, that can do lot of things.
 
 #### The Easiest Way
 
-**upgrade** your subscription for [@RenoDLbot](https://telegram.dog/AnyDLBot) without having to run anything on your own
+**upgrade** your subscription for [@RenoDLbot](https://t.me/RenoDLbot) without having to run anything on your own
 
 #### The Easy Way
 
